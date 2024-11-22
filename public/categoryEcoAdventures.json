@@ -1,0 +1,35 @@
+[
+    {
+        "ID": 1,
+        "CategoryName": "Mountain Treks"
+    },
+    {
+        "ID": 2,
+        "CategoryName": "Ocean Dives"
+    },
+    {
+        "ID": 3,
+        "CategoryName": "Wildlife Safaris"
+    },
+    {
+        "ID": 4,
+        "CategoryName": "Forest Expeditions"
+    },
+    {
+        "ID": 5,
+        "CategoryName": "Camping Retreats"
+    },
+    {
+        "ID": 6,
+        "CategoryName": "Desert Exploration"
+    },
+    {
+        "ID": 7,
+        "CategoryName": "Mangrove Forest Expeditions"
+    },
+    {
+        "ID": 8,
+        "CategoryName": "River Adventures"
+    }
+
+]
